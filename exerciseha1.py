@@ -1,0 +1,7 @@
+num1 = int(input("Input a number"))
+num2 = int(input("Input a number"))
+num3 = int(input("Input a number"))
+com_num = str(num1) + str(num2) + str(num3)
+int_num = int(com_num)
+print (num1, "+", num2, num3, int_num)
+print (type(int_num))

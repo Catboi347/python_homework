@@ -1,0 +1,6 @@
+number = int(input("type in a number"))
+number1 = int(str(number)+str(number))
+number2 = int(str(number)+str(number)+str(number))
+print (number1)
+print (number2)
+print (number + number1 + number2)
